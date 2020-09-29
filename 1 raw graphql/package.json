@@ -1,0 +1,12 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "**Graph QL** : [graphql.org - Javascript](https://graphql.org/code/#javascript)",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
