@@ -9,7 +9,7 @@ jobs:
     - name: repo-sync
       uses: wei/git-sync@v1
       env:
-        SOURCE_REPO: "http://github.com/sahilrajput03/graphql-rejuvenate.git/2-express-graphql and express"
+        SOURCE_REPO: "http://github.com/sahilrajput03/graphql-rejuvenate.git"
         SOURCE_BRANCH: "master"
         DESTINATION_REPO: ${{ secrets.glitch_git_URL }}
         DESTINATION_BRANCH: "master"
